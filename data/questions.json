@@ -1,413 +1,962 @@
 [
-{
+  {
     "topic": "Skrillex",
     "questions": [
-    {
+      {
         "question": "What is Skrillex's real name?",
-        "options": ["Calvin Harris", "Sonny Moore", "Joel Zimmerman", "Thomas Wesley Pentz"],
+        "options": [
+          "Calvin Harris",
+          "Sonny Moore",
+          "Joel Zimmerman",
+          "Thomas Wesley Pentz"
+        ],
         "correctAnswer": "Sonny Moore",
         "points": "200"
-    },
-    {
+      },
+      {
         "question": "Which Skrillex track won a Grammy Award for Best Dance Recording in 2012?",
-        "options": ["Bangarang", "Scary Monsters and Nice Sprites", "First of the Year (Equinox)", "Kyoto"],
+        "options": [
+          "Bangarang",
+          "Scary Monsters and Nice Sprites",
+          "First of the Year (Equinox)",
+          "Kyoto"
+        ],
         "correctAnswer": "Scary Monsters and Nice Sprites",
         "points": "400"
-    },
-    {
+      },
+      {
         "question": "Before his solo career as Skrillex, Sonny Moore was the lead vocalist for which band?",
-        "options": ["Fall Out Boy", "Panic! At The Disco", "From First to Last", "My Chemical Romance"],
+        "options": [
+          "Fall Out Boy",
+          "Panic! At The Disco",
+          "From First to Last",
+          "My Chemical Romance"
+        ],
         "correctAnswer": "From First to Last",
-        "points": "800"
-    },
-    {
+        "points": "600"
+      },
+      {
         "question": "Which song by Skrillex was featured in the video game 'Mortal Kombat X'?",
-        "options": ["Bangarang", "Scary Monsters and Nice Sprites", "Reptile", "Kyoto"],
+        "options": [
+          "Bangarang",
+          "Scary Monsters and Nice Sprites",
+          "Reptile",
+          "Kyoto"
+        ],
         "correctAnswer": "Reptile",
-        "points": "1000"
-    },
-    {
+        "points": "800"
+      },
+      {
         "question": "In which year did Skrillex release his debut studio album 'Recess'?",
         "options": ["2012", "2013", "2014", "2015"],
         "correctAnswer": "2014",
-        "points": "1200"
-    }
+        "points": "1000"
+      }
     ]
-},
-{
+  },
+  {
     "topic": "Yuzu and Penelope: Jou's Cats",
     "questions": [
-    {
+      {
         "question": "What is the average gestation period for a domestic cat?",
         "options": ["30-40 days", "50-60 days", "63-67 days", "70-80 days"],
         "correctAnswer": "63-67 days",
         "points": "200"
-    },
-    {
+      },
+      {
         "question": "Which breed of cat is known for its lack of a tail?",
         "options": ["Siamese", "Manx", "Persian", "Sphynx"],
         "correctAnswer": "Manx",
         "points": "400"
-    },
-    {
+      },
+      {
         "question": "What is a group of kittens called?",
         "options": ["A clowder", "A litter", "A kindle", "A pride"],
         "correctAnswer": "A litter",
-        "points": "800"
-    },
-    {
+        "points": "600"
+      },
+      {
         "question": "Which of the following is the largest breed of domestic cat?",
         "options": ["Bengal", "Maine Coon", "Russian Blue", "Ragdoll"],
         "correctAnswer": "Maine Coon",
-        "points": "1000"
-    },
-    {
+        "points": "800"
+      },
+      {
         "question": "What does it mean when a cat’s tail is puffed up?",
-        "options": ["The cat is happy and content", "The cat is scared or agitated", "The cat is hungry", "The cat is sleepy"],
+        "options": [
+          "The cat is happy and content",
+          "The cat is scared or agitated",
+          "The cat is hungry",
+          "The cat is sleepy"
+        ],
         "correctAnswer": "The cat is scared or agitated",
-        "points": "1200"
-    }
+        "points": "1000"
+      }
     ]
-},
-{
+  },
+  {
     "topic": "Venn's Caffeine",
     "questions": [
-    {
+      {
         "question": "Which of the following beverages typically contains the most caffeine per serving?",
         "options": ["Black tea", "Cola", "Coffee", "Green tea"],
         "correctAnswer": "Coffee",
         "points": "200"
-    },
-    {
+      },
+      {
         "question": "What is the primary source of caffeine in energy drinks?",
-        "options": ["Guarana", "Yerba mate", "Green tea extract", "All of the above"],
+        "options": [
+          "Guarana",
+          "Yerba mate",
+          "Green tea extract",
+          "All of the above"
+        ],
         "correctAnswer": "All of the above",
         "points": "400"
-    },
-    {
+      },
+      {
         "question": "Which type of coffee has the highest caffeine content per ounce?",
         "options": ["Espresso", "Drip coffee", "Cold brew", "Instant coffee"],
         "correctAnswer": "Espresso",
-        "points": "800"
-    },
-    {
+        "points": "600"
+      },
+      {
         "question": "What is the average caffeine content of an 8-ounce cup of brewed coffee?",
         "options": ["50 mg", "95 mg", "150 mg", "200 mg"],
         "correctAnswer": "95 mg",
-        "points": "1000"
-    },
-    {
+        "points": "800"
+      },
+      {
         "question": "Which of these tea varieties generally has the lowest caffeine content?",
         "options": ["Black tea", "Green tea", "White tea", "Oolong tea"],
         "correctAnswer": "White tea",
-        "points": "1200"
-    }
+        "points": "1000"
+      }
     ]
-},
-{
+  },
+  {
+    "topic": "Ruth's Spicy Food",
+    "questions": [
+      {
+        "question": "What is the active component in chili peppers that makes them spicy?",
+        "options": ["Capsaicin", "Caffeine", "Curcumin", "Capsicum"],
+        "correctAnswer": "Capsaicin",
+        "points": "200"
+      },
+      {
+        "question": "Which pepper is known for being one of the hottest in the world?",
+        "options": ["Jalapeño", "Habanero", "Ghost Pepper", "Scotch Bonnet"],
+        "correctAnswer": "Ghost Pepper",
+        "points": "400"
+      },
+      {
+        "question": "What is the Scoville scale used to measure?",
+        "options": [
+          "Spiciness of peppers",
+          "Sweetness of fruits",
+          "Bitterness of vegetables",
+          "Acidity of foods"
+        ],
+        "correctAnswer": "Spiciness of peppers",
+        "points": "600"
+      },
+      {
+        "question": "Which country is famous for its spicy cuisine, including dishes like Tom Yum and Green Curry?",
+        "options": ["India", "Mexico", "Thailand", "China"],
+        "correctAnswer": "Thailand",
+        "points": "800"
+      },
+      {
+        "question": "What is the popular spicy sauce made from chili peppers, vinegar, salt, and garlic?",
+        "options": ["Tabasco", "Sriracha", "Peri-Peri", "Harissa"],
+        "correctAnswer": "Sriracha",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Sean's Fried Chicken",
+    "questions": [
+      {
+        "question": "Which fast-food chain is famous for its Original Recipe chicken?",
+        "options": ["KFC", "Popeyes", "Chick-fil-A", "Church's Chicken"],
+        "correctAnswer": "KFC",
+        "points": "200"
+      },
+      {
+        "question": "What is the name of Popeyes' famous fried chicken sandwich?",
+        "options": [
+          "Big Mac",
+          "Whopper",
+          "Original Chicken Sandwich",
+          "Popeyes Chicken Sandwich"
+        ],
+        "correctAnswer": "Popeyes Chicken Sandwich",
+        "points": "400"
+      },
+      {
+        "question": "Which fried chicken chain originated in Atlanta, Georgia, and is known for its boneless chicken?",
+        "options": ["KFC", "Popeyes", "Chick-fil-A", "Zaxby's"],
+        "correctAnswer": "Chick-fil-A",
+        "points": "600"
+      },
+      {
+        "question": "What is the signature item of Jollibee that features crispy fried chicken served with gravy and rice?",
+        "options": ["Chickenjoy", "Zinger Burger", "Bucket Meal", "Spaghetti"],
+        "correctAnswer": "Chickenjoy",
+        "points": "800"
+      },
+      {
+        "question": "Which international fried chicken chain is known for its 11 herbs and spices recipe?",
+        "options": ["KFC", "Popeyes", "Chick-fil-A", "Jollibee"],
+        "correctAnswer": "KFC",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Peter's Rock Climbing",
+    "questions": [
+      {
+        "question": "What is the name of the tool used in rock climbing to secure a climber to the rock face?",
+        "options": ["Carabiner", "Harness", "Chalk bag", "Belay device"],
+        "correctAnswer": "Carabiner",
+        "points": "200"
+      },
+      {
+        "question": "Which type of climbing involves climbing short distances without the use of ropes or harnesses?",
+        "options": [
+          "Bouldering",
+          "Top-roping",
+          "Lead Climbing",
+          "Free Soloing"
+        ],
+        "correctAnswer": "Bouldering",
+        "points": "400"
+      },
+      {
+        "question": "What is the term for a climbing route that has been attempted but not yet successfully climbed?",
+        "options": ["Project", "Beta", "Crux", "Send"],
+        "correctAnswer": "Project",
+        "points": "600"
+      },
+      {
+        "question": "Who is considered the father of modern rock climbing?",
+        "options": [
+          "Alex Honnold",
+          "Lynn Hill",
+          "Reinhold Messner",
+          "Yvon Chouinard"
+        ],
+        "correctAnswer": "Yvon Chouinard",
+        "points": "800"
+      },
+      {
+        "question": "Which mountain range is famous for its granite walls and is a popular destination for rock climbers?",
+        "options": [
+          "The Alps",
+          "The Himalayas",
+          "The Dolomites",
+          "Yosemite Valley"
+        ],
+        "correctAnswer": "Yosemite Valley",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Patrick's Movies",
+    "questions": [
+      {
+        "question": "In the movie 'The Room,' what is the main character Johnny's catchphrase?",
+        "options": [
+          "Here's Johnny!",
+          "Oh, hi Mark!",
+          "I'll be back!",
+          "You can't handle the truth!"
+        ],
+        "correctAnswer": "Oh, hi Mark!",
+        "points": "200"
+      },
+      {
+        "question": "Which movie features a character named 'Donny,' who frequently says 'You're out of your element'?",
+        "options": [
+          "The Big Lebowski",
+          "Fargo",
+          "No Country for Old Men",
+          "Burn After Reading"
+        ],
+        "correctAnswer": "The Big Lebowski",
+        "points": "400"
+      },
+      {
+        "question": "In the film 'Spaceballs,' what is the name of the character played by John Candy?",
+        "options": ["Dark Helmet", "Barf", "Lone Starr", "Princess Vespa"],
+        "correctAnswer": "Barf",
+        "points": "600"
+      },
+      {
+        "question": "Which movie features a fictional band called The Wonders?",
+        "options": [
+          "Almost Famous",
+          "That Thing You Do!",
+          "Empire Records",
+          "High Fidelity"
+        ],
+        "correctAnswer": "That Thing You Do!",
+        "points": "800"
+      },
+      {
+        "question": "What is the name of the robotic character in the 1986 film 'Short Circuit'?",
+        "options": ["WALL-E", "Bender", "Johnny 5", "R2-D2"],
+        "correctAnswer": "Johnny 5",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Kevin's Basketball",
+    "questions": [
+      {
+        "question": "Who was the shortest player ever to play in the NBA?",
+        "options": [
+          "Spud Webb",
+          "Muggsy Bogues",
+          "Earl Boykins",
+          "Nate Robinson"
+        ],
+        "correctAnswer": "Muggsy Bogues",
+        "points": "200"
+      },
+      {
+        "question": "Which NBA player once scored 100 points in a single game?",
+        "options": [
+          "Michael Jordan",
+          "LeBron James",
+          "Kobe Bryant",
+          "Wilt Chamberlain"
+        ],
+        "correctAnswer": "Wilt Chamberlain",
+        "points": "400"
+      },
+      {
+        "question": "Which team has won the most NBA championships?",
+        "options": [
+          "Los Angeles Lakers",
+          "Chicago Bulls",
+          "Boston Celtics",
+          "Golden State Warriors"
+        ],
+        "correctAnswer": "Boston Celtics",
+        "points": "600"
+      },
+      {
+        "question": "Who was the first foreign-born player to be drafted first overall in the NBA draft?",
+        "options": ["Yao Ming", "Dirk Nowitzki", "Pau Gasol", "Andrew Bogut"],
+        "correctAnswer": "Yao Ming",
+        "points": "800"
+      },
+      {
+        "question": "Which player won the NBA's first-ever Slam Dunk Contest in 1984?",
+        "options": [
+          "Michael Jordan",
+          "Dominique Wilkins",
+          "Spud Webb",
+          "Larry Nance"
+        ],
+        "correctAnswer": "Larry Nance",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Kelvin's Daily Milk Tea",
+    "questions": [
+      {
+        "question": "What is the traditional name for milk tea in Taiwan?",
+        "options": ["Bubble tea", "Chai", "Hong Kong milk tea", "Matcha latte"],
+        "correctAnswer": "Bubble tea",
+        "points": "200"
+      },
+      {
+        "question": "Which ingredient gives Thai milk tea its distinctive orange color?",
+        "options": [
+          "Condensed milk",
+          "Evaporated milk",
+          "Tea leaves",
+          "Pandan leaves"
+        ],
+        "correctAnswer": "Tea leaves",
+        "points": "400"
+      },
+      {
+        "question": "Which type of tea is typically used to make classic British milk tea?",
+        "options": ["Green tea", "Black tea", "Oolong tea", "White tea"],
+        "correctAnswer": "Black tea",
+        "points": "600"
+      },
+      {
+        "question": "What is the name of the popular Japanese milk tea made with matcha powder?",
+        "options": ["Sencha", "Genmaicha", "Hojicha", "Matcha latte"],
+        "correctAnswer": "Matcha latte",
+        "points": "800"
+      },
+      {
+        "question": "Which country is famous for its 'pearl milk tea'?",
+        "options": ["Japan", "China", "Thailand", "Taiwan"],
+        "correctAnswer": "Taiwan",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Aima's Adventure Time",
+    "questions": [
+      {
+        "question": "What is the name of the ancient being who created the Enchiridion in Adventure Time?",
+        "options": ["The Lich", "GOLB", "Prismo", "Grob Gob Glob Grod"],
+        "correctAnswer": "GOLB",
+        "points": "200"
+      },
+      {
+        "question": "What is the name of Marceline's former rock band in Adventure Time?",
+        "options": [
+          "The Scream Queens",
+          "The Vampire Band",
+          "Marceline and the Ghouls",
+          "Marceline and the Scream Queens"
+        ],
+        "correctAnswer": "Marceline and the Scream Queens",
+        "points": "400"
+      },
+      {
+        "question": "Who is the gender-swapped version of Finn in the gender-swapped universe of Adventure Time?",
+        "options": ["Fionna", "Fern", "Flynn", "Felix"],
+        "correctAnswer": "Fionna",
+        "points": "600"
+      },
+      {
+        "question": "What is the name of the entity that represents the concept of chaos in Adventure Time?",
+        "options": ["Gunter", "Cosmic Owl", "The Lich", "Magic Man"],
+        "correctAnswer": "The Lich",
+        "points": "800"
+      },
+      {
+        "question": "What is the name of Jake's alien offspring who becomes a key figure in the series finale of Adventure Time?",
+        "options": ["Jermaine", "Viola", "Kim Kil Whan", "Bronwyn"],
+        "correctAnswer": "Bronwyn",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Teddy's Electronic Music",
+    "questions": [
+      {
+        "question": "Which EDM artist released the hit single 'Titanium' featuring Sia?",
+        "options": ["Calvin Harris", "David Guetta", "Avicii", "Martin Garrix"],
+        "correctAnswer": "David Guetta",
+        "points": "200"
+      },
+      {
+        "question": "Which of these festivals is NOT known for its EDM lineup?",
+        "options": [
+          "Ultra Music Festival",
+          "Electric Daisy Carnival",
+          "Coachella",
+          "Glastonbury Festival"
+        ],
+        "correctAnswer": "Glastonbury Festival",
+        "points": "400"
+      },
+      {
+        "question": "What is the real name of the DJ known as Zedd?",
+        "options": [
+          "Anton Zaslavski",
+          "Tim Bergling",
+          "Sonny Moore",
+          "Tijs Verwest"
+        ],
+        "correctAnswer": "Anton Zaslavski",
+        "points": "600"
+      },
+      {
+        "question": "Which EDM artist collaborated with Rihanna on the song 'We Found Love'?",
+        "options": ["Calvin Harris", "David Guetta", "Avicii", "Martin Garrix"],
+        "correctAnswer": "Calvin Harris",
+        "points": "800"
+      },
+      {
+        "question": "Which EDM artist's debut album is titled 'Clarity'?",
+        "options": ["Zedd", "Skrillex", "Calvin Harris", "Martin Garrix"],
+        "correctAnswer": "Zedd",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Smokey and the Bandit",
+    "questions": [
+      {
+        "question": "What was the specific model and year of the Pontiac Trans Am used in 'Smokey and the Bandit'?",
+        "options": ["1976", "1977", "1978", "1979"],
+        "correctAnswer": "1977",
+        "points": "200"
+      },
+      {
+        "question": "In 'Smokey and the Bandit', what is the full name of the character known as 'Bandit'?",
+        "options": [
+          "Bo Darville",
+          "Burt Reynolds",
+          "Jerry Reed",
+          "Cledus Snow"
+        ],
+        "correctAnswer": "Bo Darville",
+        "points": "400"
+      },
+      {
+        "question": "Which actor played the role of Sheriff Buford T. Justice's son, Junior?",
+        "options": [
+          "Mike Henry",
+          "Paul Williams",
+          "Pat McCormick",
+          "Jerry Reed"
+        ],
+        "correctAnswer": "Mike Henry",
+        "points": "600"
+      },
+      {
+        "question": "What was the exact amount of time given to Bandit to transport the Coors beer from Texas to Georgia?",
+        "options": ["24 hours", "28 hours", "30 hours", "32 hours"],
+        "correctAnswer": "28 hours",
+        "points": "800"
+      },
+      {
+        "question": "What is the name of the theme song from 'Smokey and the Bandit', and who performed it?",
+        "options": [
+          "'East Bound and Down' by Jerry Reed",
+          "'West Bound and Down' by Jerry Reed",
+          "'The Bandit' by Jerry Reed",
+          "'Snowman's Ride' by Jerry Reed"
+        ],
+        "correctAnswer": "'East Bound and Down' by Jerry Reed",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Patrick McCullough's Early Years",
+    "questions": [
+      {
+        "question": "In Patrick McCullough's first coding project, what was the name of the program he created?",
+        "options": ["ByteBuddy", "CodeCraft", "PixelPal", "BitWizard"],
+        "correctAnswer": "PixelPal",
+        "points": "200"
+      },
+      {
+        "question": "Which programming language did Patrick McCullough learn first?",
+        "options": ["Python", "C++", "Java", "HTML"],
+        "correctAnswer": "Python",
+        "points": "400"
+      },
+      {
+        "question": "What was the title of Patrick McCullough's thesis project during his college years?",
+        "options": [
+          "Digital Dreamscape: Exploring Virtual Reality",
+          "The Algorithmic Symphony: A Study in Computational Music",
+          "Navigating the Digital World: A Guide to Cybersecurity",
+          "Unlocking the Code: A Journey into Cryptography"
+        ],
+        "correctAnswer": "Digital Dreamscape: Exploring Virtual Reality",
+        "points": "600"
+      },
+      {
+        "question": "Which renowned software company did Patrick McCullough intern at during his summer break?",
+        "options": ["ByteTech", "CodeCorp", "BitWise", "PixelWorks"],
+        "correctAnswer": "CodeCorp",
+        "points": "800"
+      },
+      {
+        "question": "What was the name of the programming competition where Patrick McCullough won his first award?",
+        "options": [
+          "CodeMaster Challenge",
+          "ByteBash Championship",
+          "Hackathon Heroes",
+          "PixelCoders Cup"
+        ],
+        "correctAnswer": "ByteBash Championship",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Avocados 🥑",
+    "questions": [
+      {
+        "question": "What is the optimal pH range for soil in avocado farming?",
+        "options": ["5.5-6.5", "6.5-7.5", "7.0-8.0", "8.0-9.0"],
+        "correctAnswer": "6.5-7.5",
+        "points": "200"
+      },
+      {
+        "question": "Which avocado variety is known for its exceptionally high oil content?",
+        "options": ["Hass", "Fuerte", "Pinkerton", "Reed"],
+        "correctAnswer": "Hass",
+        "points": "400"
+      },
+      {
+        "question": "What is the primary method used for avocado propagation?",
+        "options": ["Grafting", "Seed Germination", "Air Layering", "Cuttings"],
+        "correctAnswer": "Grafting",
+        "points": "600"
+      },
+      {
+        "question": "Which nutrient deficiency causes avocado leaves to turn yellow, starting from the tips?",
+        "options": ["Nitrogen", "Iron", "Potassium", "Magnesium"],
+        "correctAnswer": "Magnesium",
+        "points": "800"
+      },
+      {
+        "question": "What is the ideal temperature range for avocado trees to flower and set fruit?",
+        "options": [
+          "10-20°C (50-68°F)",
+          "20-30°C (68-86°F)",
+          "30-40°C (86-104°F)",
+          "Below 10°C (50°F)"
+        ],
+        "correctAnswer": "20-30°C (68-86°F)",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Polish Markets",
+    "questions": [
+      {
+        "question": "What is the main stock exchange in Poland?",
+        "options": [
+          "Warsaw Stock Exchange",
+          "Krakow Stock Exchange",
+          "Poznan Stock Exchange",
+          "Gdansk Stock Exchange"
+        ],
+        "correctAnswer": "Warsaw Stock Exchange",
+        "points": "200"
+      },
+      {
+        "question": "Which index tracks the performance of the largest companies listed on the Warsaw Stock Exchange?",
+        "options": ["WIG20", "WIG30", "WIG50", "WIG100"],
+        "correctAnswer": "WIG20",
+        "points": "400"
+      },
+      {
+        "question": "What does the abbreviation 'GPW' stand for in the context of the Polish stock market?",
+        "options": [
+          "Global Polish Wealth",
+          "Gross Profit Weight",
+          "General Price Index",
+          "Warsaw Stock Exchange"
+        ],
+        "correctAnswer": "Warsaw Stock Exchange",
+        "points": "600"
+      },
+      {
+        "question": "Which Polish company is the largest by market capitalization on the Warsaw Stock Exchange?",
+        "options": [
+          "PKN Orlen",
+          "PKO Bank Polski",
+          "CD Projekt",
+          "PGE Polska Grupa Energetyczna"
+        ],
+        "correctAnswer": "CD Projekt",
+        "points": "800"
+      },
+      {
+        "question": "What is the currency used for trading on the Warsaw Stock Exchange?",
+        "options": ["Euro", "Polish Zloty", "US Dollar", "British Pound"],
+        "correctAnswer": "Polish Zloty",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "We Hate Bandsite",
+    "questions": [
+      {
+        "question": "What does DOM stand for in the context of web development?",
+        "options": [
+          "Document Object Model",
+          "Data Object Model",
+          "Dynamic Object Model",
+          "Design Object Model"
+        ],
+        "correctAnswer": "Document Object Model",
+        "points": "200"
+      },
+      {
+        "question": "Which method is used to add a new element to the end of an array in JavaScript?",
+        "options": ["push()", "insert()", "append()", "addToEnd()"],
+        "correctAnswer": "push()",
+        "points": "400"
+      },
+      {
+        "question": "In Sass, what does the '@extend' directive do?",
+        "options": [
+          "Extends the styles of one selector to another",
+          "Imports an external stylesheet",
+          "Defines a mixin",
+          "Compiles Sass code into CSS"
+        ],
+        "correctAnswer": "Extends the styles of one selector to another",
+        "points": "600"
+      },
+      {
+        "question": "Which property in Flexbox is used to specify the alignment of flex items along the cross axis?",
+        "options": [
+          "align-items",
+          "justify-content",
+          "flex-direction",
+          "align-content"
+        ],
+        "correctAnswer": "align-items",
+        "points": "800"
+      },
+      {
+        "question": "What does the 'flex-grow' property in Flexbox determine?",
+        "options": [
+          "The ability of a flex item to grow relative to other items",
+          "The direction in which flex items are laid out",
+          "The alignment of flex items along the main axis",
+          "The size of a flex container"
+        ],
+        "correctAnswer": "The ability of a flex item to grow relative to other items",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Kahoot History",
+    "questions": [
+      {
+        "question": "In what year was Kahoot founded?",
+        "options": ["2011", "2012", "2013", "2014"],
+        "correctAnswer": "2013",
+        "points": "200"
+      },
+      {
+        "question": "Who are the co-founders of Kahoot?",
+        "options": [
+          "Anders Brandt",
+          "Jamie Brooker",
+          "Morten Versvik",
+          "All of the above"
+        ],
+        "correctAnswer": "All of the above",
+        "points": "400"
+      },
+      {
+        "question": "Where was Kahoot's headquarters located when it was founded?",
+        "options": [
+          "Oslo, Norway",
+          "Stockholm, Sweden",
+          "Copenhagen, Denmark",
+          "Helsinki, Finland"
+        ],
+        "correctAnswer": "Oslo, Norway",
+        "points": "600"
+      },
+      {
+        "question": "What was the original name of Kahoot before it was officially launched?",
+        "options": ["QuizUp", "SmartQuiz", "LærerQuiz", "DragonBox"],
+        "correctAnswer": "LærerQuiz",
+        "points": "800"
+      },
+      {
+        "question": "How many users does Kahoot have as of the year 2022?",
+        "options": ["50 million", "100 million", "150 million", "200 million"],
+        "correctAnswer": "200 million",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Upstate New York Trivia",
+    "questions": [
+      {
+        "question": "In what Upstate New York town did the famous 'Woodstock' music festival take place in 1969?",
+        "options": ["Albany", "Buffalo", "Woodstock", "Bethel"],
+        "correctAnswer": "Bethel",
+        "points": "200"
+      },
+      {
+        "question": "What is the name of the mysterious creature said to inhabit the waters of Lake Champlain, often compared to the Loch Ness Monster?",
+        "options": ["Champ", "Bessie", "Ogopogo", "Mokele-mbembe"],
+        "correctAnswer": "Champ",
+        "points": "400"
+      },
+      {
+        "question": "Which Upstate New York city served as the filming location for 'The Shawshank Redemption'?",
+        "options": ["Syracuse", "Rochester", "Buffalo", "Auburn"],
+        "correctAnswer": "Mansfield",
+        "points": "600"
+      },
+      {
+        "question": "In 1945, what unusual event occurred in the small town of Mattoon, NY, sparking mass hysteria and panic?",
+        "options": [
+          "UFO sighting",
+          "Mass UFO abduction",
+          "The Mad Gasser attacks",
+          "Bigfoot sighting"
+        ],
+        "correctAnswer": "The Mad Gasser attacks",
+        "points": "800"
+      },
+      {
+        "question": "Which Upstate New York town was the birthplace of the spiritualist movement, hosting the famous Fox Sisters seances in the mid-19th century?",
+        "options": ["Lily Dale", "Skaneateles", "Saratoga Springs", "Oneida"],
+        "correctAnswer": "Lily Dale",
+        "points": "1000"
+      }
+    ]
+  },
+  {
     "topic": "SpongeBob Trivia",
     "questions": [
-    {
-        "question": "What is the name of SpongeBob's pet snail?",
-        "options": ["Gary", "Larry", "Barry", "Jerry"],
-        "correctAnswer": "Gary",
+      {
+        "question": "Which character in SpongeBob SquarePants has an irrational fear of the dark?",
+        "options": ["Squidward", "Plankton", "Sandy", "Mrs. Puff"],
+        "correctAnswer": "Squidward",
         "points": "200"
-    },
-    {
-        "question": "Who lives in a pineapple under the sea?",
-        "options": ["Patrick Star", "Squidward Tentacles", "Sandy Cheeks", "SpongeBob SquarePants"],
-        "correctAnswer": "SpongeBob SquarePants",
+      },
+      {
+        "question": "What psychological disorder does Squidward exhibit in his constant need for validation and attention?",
+        "options": ["Narcissistic Personality Disorder", "Obsessive-Compulsive Disorder", "Dependent Personality Disorder", "Histrionic Personality Disorder"],
+        "correctAnswer": "Histrionic Personality Disorder",
         "points": "400"
-    },
-    {
-        "question": "What is the name of Mr. Krabs' restaurant in Bikini Bottom?",
-        "options": ["Krusty Krab", "Chum Bucket", "Salty Spitoon", "Kelp Shake"],
-        "correctAnswer": "Krusty Krab",
+      },
+      {
+        "question": "Which character demonstrates symptoms of Generalized Anxiety Disorder due to their constant worrying and catastrophizing?",
+        "options": ["Mr. Krabs", "Plankton", "Mrs. Puff", "Pearl"],
+        "correctAnswer": "Mrs. Puff",
+        "points": "600"
+      },
+      {
+        "question": "Which character exhibits signs of Avoidant Personality Disorder due to their extreme shyness and fear of rejection?",
+        "options": ["Patrick", "Sandy", "Gary", "Pearl"],
+        "correctAnswer": "Patrick",
         "points": "800"
-    },
-    {
-        "question": "Which character is known for constantly yelling 'My leg!'?",
-        "options": ["Fred", "Barnacle Boy", "Mermaid Man", "Tom"],
-        "correctAnswer": "Fred",
-        "points": "1200"}]
-},
-{
-"topic": "Ruth's Spicy Food",
-"questions": [
-    {
-    "question": "What is the active component in chili peppers that makes them spicy?",
-    "options": ["Capsaicin", "Caffeine", "Curcumin", "Capsicum"],
-    "correctAnswer": "Capsaicin",
-    "points": "200"
-    },
-    {
-    "question": "Which pepper is known for being one of the hottest in the world?",
-    "options": ["Jalapeño", "Habanero", "Ghost Pepper", "Scotch Bonnet"],
-    "correctAnswer": "Ghost Pepper",
-    "points": "400"
-    },
-    {
-    "question": "What is the Scoville scale used to measure?",
-    "options": ["Spiciness of peppers", "Sweetness of fruits", "Bitterness of vegetables", "Acidity of foods"],
-    "correctAnswer": "Spiciness of peppers",
-    "points": "800"
-    },
-    {
-    "question": "Which country is famous for its spicy cuisine, including dishes like Tom Yum and Green Curry?",
-    "options": ["India", "Mexico", "Thailand", "China"],
-    "correctAnswer": "Thailand",
-    "points": "1000"
-    },
-    {
-    "question": "What is the popular spicy sauce made from chili peppers, vinegar, salt, and garlic?",
-    "options": ["Tabasco", "Sriracha", "Peri-Peri", "Harissa"],
-    "correctAnswer": "Sriracha",
-    "points": "1200"
-    }
-]
-},
-{
-"topic": "Sean's Fried Chicken",
-"questions": [
-    {
-    "question": "Which fast-food chain is famous for its Original Recipe chicken?",
-    "options": ["KFC", "Popeyes", "Chick-fil-A", "Church's Chicken"],
-    "correctAnswer": "KFC",
-    "points": "200"
-    },
-    {
-    "question": "What is the name of Popeyes' famous fried chicken sandwich?",
-    "options": ["Big Mac", "Whopper", "Original Chicken Sandwich", "Popeyes Chicken Sandwich"],
-    "correctAnswer": "Popeyes Chicken Sandwich",
-    "points": "400"
-    },
-    {
-    "question": "Which fried chicken chain originated in Atlanta, Georgia, and is known for its boneless chicken?",
-    "options": ["KFC", "Popeyes", "Chick-fil-A", "Zaxby's"],
-    "correctAnswer": "Chick-fil-A",
-    "points": "800"
-    },
-    {
-    "question": "What is the signature item of Jollibee that features crispy fried chicken served with gravy and rice?",
-    "options": ["Chickenjoy", "Zinger Burger", "Bucket Meal", "Spaghetti"],
-    "correctAnswer": "Chickenjoy",
-    "points": "1000"
-    },
-    {
-    "question": "Which international fried chicken chain is known for its 11 herbs and spices recipe?",
-    "options": ["KFC", "Popeyes", "Chick-fil-A", "Jollibee"],
-    "correctAnswer": "KFC",
-    "points": "1200"
-    }
-]
-},
-{
-"topic": "Peter's Rock Climbing",
-"questions": [
-    {
-    "question": "What is the name of the tool used in rock climbing to secure a climber to the rock face?",
-    "options": ["Carabiner", "Harness", "Chalk bag", "Belay device"],
-    "correctAnswer": "Carabiner",
-    "points": "200"
-    },
-    {
-    "question": "Which type of climbing involves climbing short distances without the use of ropes or harnesses?",
-    "options": ["Bouldering", "Top-roping", "Lead Climbing", "Free Soloing"],
-    "correctAnswer": "Bouldering",
-    "points": "400"
-    },
-    {
-    "question": "What is the term for a climbing route that has been attempted but not yet successfully climbed?",
-    "options": ["Project", "Beta", "Crux", "Send"],
-    "correctAnswer": "Project",
-    "points": "800"
-    },
-    {
-    "question": "Who is considered the father of modern rock climbing?",
-    "options": ["Alex Honnold", "Lynn Hill", "Reinhold Messner", "Yvon Chouinard"],
-    "correctAnswer": "Yvon Chouinard",
-    "points": "1000"
-    },
-    {
-    "question": "Which mountain range is famous for its granite walls and is a popular destination for rock climbers?",
-    "options": ["The Alps", "The Himalayas", "The Dolomites", "Yosemite Valley"],
-    "correctAnswer": "Yosemite Valley",
-    "points": "1200"
-    }
-]
-},
-{
-"topic": "Patrick's Movies",
-"questions": [
-    {
-    "question": "In the movie 'The Room,' what is the main character Johnny's catchphrase?",
-    "options": ["Here's Johnny!", "Oh, hi Mark!", "I'll be back!", "You can't handle the truth!"],
-    "correctAnswer": "Oh, hi Mark!",
-    "points": "200"
-    },
-    {
-    "question": "Which movie features a character named 'Donny,' who frequently says 'You're out of your element'?",
-    "options": ["The Big Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"],
-    "correctAnswer": "The Big Lebowski",
-    "points": "400"
-    },
-    {
-    "question": "In the film 'Spaceballs,' what is the name of the character played by John Candy?",
-    "options": ["Dark Helmet", "Barf", "Lone Starr", "Princess Vespa"],
-    "correctAnswer": "Barf",
-    "points": "800"
-    },
-    {
-    "question": "Which movie features a fictional band called The Wonders?",
-    "options": ["Almost Famous", "That Thing You Do!", "Empire Records", "High Fidelity"],
-    "correctAnswer": "That Thing You Do!",
-    "points": "1000"
-    },
-    {
-    "question": "What is the name of the robotic character in the 1986 film 'Short Circuit'?",
-    "options": ["WALL-E", "Bender", "Johnny 5", "R2-D2"],
-    "correctAnswer": "Johnny 5",
-    "points": "1200"
-    }
-]
-},
-{
-"topic": "Kevin's Basketball",
-"questions": [
-    {
-    "question": "Who was the shortest player ever to play in the NBA?",
-    "options": ["Spud Webb", "Muggsy Bogues", "Earl Boykins", "Nate Robinson"],
-    "correctAnswer": "Muggsy Bogues",
-    "points": "200"
-    },
-    {
-    "question": "Which NBA player once scored 100 points in a single game?",
-    "options": ["Michael Jordan", "LeBron James", "Kobe Bryant", "Wilt Chamberlain"],
-    "correctAnswer": "Wilt Chamberlain",
-    "points": "400"
-    },
-    {
-    "question": "Which team has won the most NBA championships?",
-    "options": ["Los Angeles Lakers", "Chicago Bulls", "Boston Celtics", "Golden State Warriors"],
-    "correctAnswer": "Boston Celtics",
-    "points": "800"
-    },
-    {
-    "question": "Who was the first foreign-born player to be drafted first overall in the NBA draft?",
-    "options": ["Yao Ming", "Dirk Nowitzki", "Pau Gasol", "Andrew Bogut"],
-    "correctAnswer": "Yao Ming",
-    "points": "1000"
-    },
-    {
-    "question": "Which player won the NBA's first-ever Slam Dunk Contest in 1984?",
-    "options": ["Michael Jordan", "Dominique Wilkins", "Spud Webb", "Larry Nance"],
-    "correctAnswer": "Larry Nance",
-    "points": "1200"
-    }
-]
-},
-{
-"topic": "Kelvin's Daily Milk Tea",
-"questions": [
-    {
-    "question": "What is the traditional name for milk tea in Taiwan?",
-    "options": ["Bubble tea", "Chai", "Hong Kong milk tea", "Matcha latte"],
-    "correctAnswer": "Bubble tea",
-    "points": "200"
-    },
-    {
-    "question": "Which ingredient gives Thai milk tea its distinctive orange color?",
-    "options": ["Condensed milk", "Evaporated milk", "Tea leaves", "Pandan leaves"],
-    "correctAnswer": "Tea leaves",
-    "points": "400"
-    },
-    {
-    "question": "Which type of tea is typically used to make classic British milk tea?",
-    "options": ["Green tea", "Black tea", "Oolong tea", "White tea"],
-    "correctAnswer": "Black tea",
-    "points": "800"
-    },
-    {
-    "question": "What is the name of the popular Japanese milk tea made with matcha powder?",
-    "options": ["Sencha", "Genmaicha", "Hojicha", "Matcha latte"],
-    "correctAnswer": "Matcha latte",
-    "points": "1000"
-    },
-    {
-    "question": "Which country is famous for its 'pearl milk tea'?",
-    "options": ["Japan", "China", "Thailand", "Taiwan"],
-    "correctAnswer": "Taiwan",
-    "points": "1200"
-    }
-]
-},
-{
-"topic": "Aima's Adventure Time",
-"questions": [
-    {
-    "question": "What is the name of the ancient being who created the Enchiridion in Adventure Time?",
-    "options": ["The Lich", "GOLB", "Prismo", "Grob Gob Glob Grod"],
-    "correctAnswer": "GOLB",
-    "points": "400"
-    },
-    {
-    "question": "What is the name of Marceline's former rock band in Adventure Time?",
-    "options": ["The Scream Queens", "The Vampire Band", "Marceline and the Ghouls", "Marceline and the Scream Queens"],
-    "correctAnswer": "Marceline and the Scream Queens",
-    "points": "600"
-    },
-    {
-    "question": "Who is the gender-swapped version of Finn in the gender-swapped universe of Adventure Time?",
-    "options": ["Fionna", "Fern", "Flynn", "Felix"],
-    "correctAnswer": "Fionna",
-    "points": "800"
-    },
-    {
-    "question": "What is the name of the entity that represents the concept of chaos in Adventure Time?",
-    "options": ["Gunter", "Cosmic Owl", "The Lich", "Magic Man"],
-    "correctAnswer": "The Lich",
-    "points": "1000"
-    },
-    {
-    "question": "What is the name of Jake's alien offspring who becomes a key figure in the series finale of Adventure Time?",
-    "options": ["Jermaine", "Viola", "Kim Kil Whan", "Bronwyn"],
-    "correctAnswer": "Bronwyn",
-    "points": "1200"
-    }
-]
-},
-{
-"topic": "Teddy's Electronic Music",
-"questions": [
-    {
-    "question": "Which EDM artist released the hit single 'Titanium' featuring Sia?",
-    "options": ["Calvin Harris", "David Guetta", "Avicii", "Martin Garrix"],
-    "correctAnswer": "David Guetta",
-    "points": "300"
-    },
-    {
-    "question": "Which of these festivals is NOT known for its EDM lineup?",
-    "options": ["Ultra Music Festival", "Electric Daisy Carnival", "Coachella", "Glastonbury Festival"],
-    "correctAnswer": "Glastonbury Festival",
-    "points": "500"
-    },
-    {
-    "question": "What is the real name of the DJ known as Zedd?",
-    "options": ["Anton Zaslavski", "Tim Bergling", "Sonny Moore", "Tijs Verwest"],
-    "correctAnswer": "Anton Zaslavski",
-    "points": "700"
-    },
-    {
-    "question": "Which EDM artist collaborated with Rihanna on the song 'We Found Love'?",
-    "options": ["Calvin Harris", "David Guetta", "Avicii", "Martin Garrix"],
-    "correctAnswer": "Calvin Harris",
-    "points": "900"
-    },
-    {
-    "question": "Which EDM artist's debut album is titled 'Clarity'?",
-    "options": ["Zedd", "Skrillex", "Calvin Harris", "Martin Garrix"],
-    "correctAnswer": "Zedd",
-    "points": "1100"
-    }]
-}
+      },
+      {
+        "question": "What psychological concept is exemplified by SpongeBob's unwavering optimism and resilience despite constant failure?",
+        "options": ["Learned Helplessness", "Cognitive Dissonance", "Self-Efficacy", "Confirmation Bias"],
+        "correctAnswer": "Self-Efficacy",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Early 2000s Nickelodeon",
+    "questions": [
+      {
+        "question": "In the show 'The Adventures of Pete & Pete', what is the name of Little Pete's tattoo?",
+        "options": ["Petunia", "Pete", "Petey", "Polly"],
+        "correctAnswer": "Petunia",
+        "points": "200"
+      },
+      {
+        "question": "Which Nickelodeon game show featured messy physical challenges and a giant nose named 'Moira'?",
+        "options": ["Figure It Out", "Wild & Crazy Kids", "Double Dare 2000", "Slime Time Live"],
+        "correctAnswer": "Figure It Out",
+        "points": "400"
+      },
+      {
+        "question": "In the animated series 'As Told by Ginger', what is the name of Ginger's best friend?",
+        "options": ["Courtney", "Miranda", "Macy", "Darren"],
+        "correctAnswer": "Courtney",
+        "points": "600"
+      },
+      {
+        "question": "What is the name of the fictional town where 'The Wild Thornberrys' live?",
+        "options": ["El Dorado", "North Valley", "Waverly Hills", "Blandings"],
+        "correctAnswer": "El Dorado",
+        "points": "800"
+      },
+      {
+        "question": "Which early 2000s Nickelodeon show featured a boy named Ned who documented his daily life in a series of video diaries?",
+        "options": ["Ned's Declassified School Survival Guide", "The Amanda Show", "Drake & Josh", "Zoey 101"],
+        "correctAnswer": "Ned's Declassified School Survival Guide",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Warthogs with Guns 🐗",
+    "questions": [
+      {
+        "question": "What type of firearm would a warthog most likely use?",
+        "options": ["Sniper rifle", "Shotgun", "Pistol", "Assault rifle"],
+        "correctAnswer": "Shotgun",
+        "points": "200"
+      },
+      {
+        "question": "What would be the biggest challenge for a warthog using a gun?",
+        "options": ["Recoil", "Finding ammunition", "Opposable thumbs", "Aiming"],
+        "correctAnswer": "Opposable thumbs",
+        "points": "400"
+      },
+      {
+        "question": "Which warthog accessory would be the most popular?",
+        "options": ["Tactical vest", "Night vision goggles", "Bandolier", "Helmet"],
+        "correctAnswer": "Tactical vest",
+        "points": "600"
+      },
+      {
+        "question": "What would warthogs use as currency to buy guns and ammo?",
+        "options": ["Tusks", "Acorns", "Dung beetles", "Grubs"],
+        "correctAnswer": "Tusks",
+        "points": "800"
+      },
+      {
+        "question": "What would be the warthogs' strategy in a gunfight?",
+        "options": ["Charge headfirst", "Stay hidden", "Ambush", "Run away"],
+        "correctAnswer": "Charge headfirst",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Japanese Supermarkets",
+    "questions": [
+      {
+        "question": "What is the largest Japanese supermarket chain in NYC?",
+        "options": ["Mitsuwa Marketplace", "H-Mart", "Sunrise Mart", "Nijiya Market"],
+        "correctAnswer": "Mitsuwa Marketplace",
+        "points": "200"
+      },
+      {
+        "question": "Which Japanese supermarket in NYC is known for its extensive selection of bento boxes and prepared foods?",
+        "options": ["Mitsuwa Marketplace", "Sunrise Mart", "H-Mart", "Katagiri"],
+        "correctAnswer": "Sunrise Mart",
+        "points": "400"
+      },
+      {
+        "question": "Which Japanese supermarket in NYC is located in the East Village and has been serving customers since 1975?",
+        "options": ["Mitsuwa Marketplace", "Sunrise Mart", "Katagiri", "Nijiya Market"],
+        "correctAnswer": "Katagiri",
+        "points": "600"
+      },
+      {
+        "question": "Which Japanese supermarket in NYC is famous for its fresh fish selection and sushi counter?",
+        "options": ["Mitsuwa Marketplace", "H-Mart", "Sunrise Mart", "Nijiya Market"],
+        "correctAnswer": "Nijiya Market",
+        "points": "800"
+      },
+      {
+        "question": "In which borough of NYC can you find a branch of the Japanese supermarket chain H-Mart?",
+        "options": ["Manhattan", "Brooklyn", "Queens", "The Bronx"],
+        "correctAnswer": "Queens",
+        "points": "1000"
+      }
+    ]
+  }
 ]
