@@ -135,45 +135,6 @@
     ]
   },
   {
-    "topic": "SpongeBob Trivia",
-    "questions": [
-      {
-        "question": "What is the name of SpongeBob's pet snail?",
-        "options": ["Gary", "Larry", "Barry", "Jerry"],
-        "correctAnswer": "Gary",
-        "points": "200"
-      },
-      {
-        "question": "Who lives in a pineapple under the sea?",
-        "options": [
-          "Patrick Star",
-          "Squidward Tentacles",
-          "Sandy Cheeks",
-          "SpongeBob SquarePants"
-        ],
-        "correctAnswer": "SpongeBob SquarePants",
-        "points": "400"
-      },
-      {
-        "question": "What is the name of Mr. Krabs' restaurant in Bikini Bottom?",
-        "options": [
-          "Krusty Krab",
-          "Chum Bucket",
-          "Salty Spitoon",
-          "Kelp Shake"
-        ],
-        "correctAnswer": "Krusty Krab",
-        "points": "600"
-      },
-      {
-        "question": "Which character is known for constantly yelling 'My leg!'?",
-        "options": ["Fred", "Barnacle Boy", "Mermaid Man", "Tom"],
-        "correctAnswer": "Fred",
-        "points": "800"
-      }
-    ]
-  },
-  {
     "topic": "Ruth's Spicy Food",
     "questions": [
       {
@@ -544,13 +505,23 @@
       },
       {
         "question": "In 'Smokey and the Bandit', what is the full name of the character known as 'Bandit'?",
-        "options": ["Bo Darville", "Burt Reynolds", "Jerry Reed", "Cledus Snow"],
+        "options": [
+          "Bo Darville",
+          "Burt Reynolds",
+          "Jerry Reed",
+          "Cledus Snow"
+        ],
         "correctAnswer": "Bo Darville",
         "points": "400"
       },
       {
         "question": "Which actor played the role of Sheriff Buford T. Justice's son, Junior?",
-        "options": ["Mike Henry", "Paul Williams", "Pat McCormick", "Jerry Reed"],
+        "options": [
+          "Mike Henry",
+          "Paul Williams",
+          "Pat McCormick",
+          "Jerry Reed"
+        ],
         "correctAnswer": "Mike Henry",
         "points": "600"
       },
@@ -562,7 +533,12 @@
       },
       {
         "question": "What is the name of the theme song from 'Smokey and the Bandit', and who performed it?",
-        "options": ["'East Bound and Down' by Jerry Reed", "'West Bound and Down' by Jerry Reed", "'The Bandit' by Jerry Reed", "'Snowman's Ride' by Jerry Reed"],
+        "options": [
+          "'East Bound and Down' by Jerry Reed",
+          "'West Bound and Down' by Jerry Reed",
+          "'The Bandit' by Jerry Reed",
+          "'Snowman's Ride' by Jerry Reed"
+        ],
         "correctAnswer": "'East Bound and Down' by Jerry Reed",
         "points": "1000"
       }
@@ -585,7 +561,12 @@
       },
       {
         "question": "What was the title of Patrick McCullough's thesis project during his college years?",
-        "options": ["Digital Dreamscape: Exploring Virtual Reality", "The Algorithmic Symphony: A Study in Computational Music", "Navigating the Digital World: A Guide to Cybersecurity", "Unlocking the Code: A Journey into Cryptography"],
+        "options": [
+          "Digital Dreamscape: Exploring Virtual Reality",
+          "The Algorithmic Symphony: A Study in Computational Music",
+          "Navigating the Digital World: A Guide to Cybersecurity",
+          "Unlocking the Code: A Journey into Cryptography"
+        ],
         "correctAnswer": "Digital Dreamscape: Exploring Virtual Reality",
         "points": "600"
       },
@@ -597,7 +578,12 @@
       },
       {
         "question": "What was the name of the programming competition where Patrick McCullough won his first award?",
-        "options": ["CodeMaster Challenge", "ByteBash Championship", "Hackathon Heroes", "PixelCoders Cup"],
+        "options": [
+          "CodeMaster Challenge",
+          "ByteBash Championship",
+          "Hackathon Heroes",
+          "PixelCoders Cup"
+        ],
         "correctAnswer": "ByteBash Championship",
         "points": "1000"
       }
@@ -632,7 +618,12 @@
       },
       {
         "question": "What is the ideal temperature range for avocado trees to flower and set fruit?",
-        "options": ["10-20°C (50-68°F)", "20-30°C (68-86°F)", "30-40°C (86-104°F)", "Below 10°C (50°F)"],
+        "options": [
+          "10-20°C (50-68°F)",
+          "20-30°C (68-86°F)",
+          "30-40°C (86-104°F)",
+          "Below 10°C (50°F)"
+        ],
         "correctAnswer": "20-30°C (68-86°F)",
         "points": "1000"
       }
@@ -643,7 +634,12 @@
     "questions": [
       {
         "question": "What is the main stock exchange in Poland?",
-        "options": ["Warsaw Stock Exchange", "Krakow Stock Exchange", "Poznan Stock Exchange", "Gdansk Stock Exchange"],
+        "options": [
+          "Warsaw Stock Exchange",
+          "Krakow Stock Exchange",
+          "Poznan Stock Exchange",
+          "Gdansk Stock Exchange"
+        ],
         "correctAnswer": "Warsaw Stock Exchange",
         "points": "200"
       },
@@ -655,13 +651,23 @@
       },
       {
         "question": "What does the abbreviation 'GPW' stand for in the context of the Polish stock market?",
-        "options": ["Global Polish Wealth", "Gross Profit Weight", "General Price Index", "Warsaw Stock Exchange"],
+        "options": [
+          "Global Polish Wealth",
+          "Gross Profit Weight",
+          "General Price Index",
+          "Warsaw Stock Exchange"
+        ],
         "correctAnswer": "Warsaw Stock Exchange",
         "points": "600"
       },
       {
         "question": "Which Polish company is the largest by market capitalization on the Warsaw Stock Exchange?",
-        "options": ["PKN Orlen", "PKO Bank Polski", "CD Projekt", "PGE Polska Grupa Energetyczna"],
+        "options": [
+          "PKN Orlen",
+          "PKO Bank Polski",
+          "CD Projekt",
+          "PGE Polska Grupa Energetyczna"
+        ],
         "correctAnswer": "CD Projekt",
         "points": "800"
       },
@@ -678,7 +684,12 @@
     "questions": [
       {
         "question": "What does DOM stand for in the context of web development?",
-        "options": ["Document Object Model", "Data Object Model", "Dynamic Object Model", "Design Object Model"],
+        "options": [
+          "Document Object Model",
+          "Data Object Model",
+          "Dynamic Object Model",
+          "Design Object Model"
+        ],
         "correctAnswer": "Document Object Model",
         "points": "200"
       },
@@ -690,19 +701,34 @@
       },
       {
         "question": "In Sass, what does the '@extend' directive do?",
-        "options": ["Extends the styles of one selector to another", "Imports an external stylesheet", "Defines a mixin", "Compiles Sass code into CSS"],
+        "options": [
+          "Extends the styles of one selector to another",
+          "Imports an external stylesheet",
+          "Defines a mixin",
+          "Compiles Sass code into CSS"
+        ],
         "correctAnswer": "Extends the styles of one selector to another",
         "points": "600"
       },
       {
         "question": "Which property in Flexbox is used to specify the alignment of flex items along the cross axis?",
-        "options": ["align-items", "justify-content", "flex-direction", "align-content"],
+        "options": [
+          "align-items",
+          "justify-content",
+          "flex-direction",
+          "align-content"
+        ],
         "correctAnswer": "align-items",
         "points": "800"
       },
       {
         "question": "What does the 'flex-grow' property in Flexbox determine?",
-        "options": ["The ability of a flex item to grow relative to other items", "The direction in which flex items are laid out", "The alignment of flex items along the main axis", "The size of a flex container"],
+        "options": [
+          "The ability of a flex item to grow relative to other items",
+          "The direction in which flex items are laid out",
+          "The alignment of flex items along the main axis",
+          "The size of a flex container"
+        ],
         "correctAnswer": "The ability of a flex item to grow relative to other items",
         "points": "1000"
       }
@@ -719,13 +745,23 @@
       },
       {
         "question": "Who are the co-founders of Kahoot?",
-        "options": ["Anders Brandt", "Jamie Brooker", "Morten Versvik", "All of the above"],
+        "options": [
+          "Anders Brandt",
+          "Jamie Brooker",
+          "Morten Versvik",
+          "All of the above"
+        ],
         "correctAnswer": "All of the above",
         "points": "400"
       },
       {
         "question": "Where was Kahoot's headquarters located when it was founded?",
-        "options": ["Oslo, Norway", "Stockholm, Sweden", "Copenhagen, Denmark", "Helsinki, Finland"],
+        "options": [
+          "Oslo, Norway",
+          "Stockholm, Sweden",
+          "Copenhagen, Denmark",
+          "Helsinki, Finland"
+        ],
         "correctAnswer": "Oslo, Norway",
         "points": "600"
       },
@@ -743,5 +779,184 @@
       }
     ]
   },
-
+  {
+    "topic": "Upstate New York Trivia",
+    "questions": [
+      {
+        "question": "In what Upstate New York town did the famous 'Woodstock' music festival take place in 1969?",
+        "options": ["Albany", "Buffalo", "Woodstock", "Bethel"],
+        "correctAnswer": "Bethel",
+        "points": "200"
+      },
+      {
+        "question": "What is the name of the mysterious creature said to inhabit the waters of Lake Champlain, often compared to the Loch Ness Monster?",
+        "options": ["Champ", "Bessie", "Ogopogo", "Mokele-mbembe"],
+        "correctAnswer": "Champ",
+        "points": "400"
+      },
+      {
+        "question": "Which Upstate New York city served as the filming location for 'The Shawshank Redemption'?",
+        "options": ["Syracuse", "Rochester", "Buffalo", "Auburn"],
+        "correctAnswer": "Mansfield",
+        "points": "600"
+      },
+      {
+        "question": "In 1945, what unusual event occurred in the small town of Mattoon, NY, sparking mass hysteria and panic?",
+        "options": [
+          "UFO sighting",
+          "Mass UFO abduction",
+          "The Mad Gasser attacks",
+          "Bigfoot sighting"
+        ],
+        "correctAnswer": "The Mad Gasser attacks",
+        "points": "800"
+      },
+      {
+        "question": "Which Upstate New York town was the birthplace of the spiritualist movement, hosting the famous Fox Sisters seances in the mid-19th century?",
+        "options": ["Lily Dale", "Skaneateles", "Saratoga Springs", "Oneida"],
+        "correctAnswer": "Lily Dale",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "SpongeBob Trivia",
+    "questions": [
+      {
+        "question": "Which character in SpongeBob SquarePants has an irrational fear of the dark?",
+        "options": ["Squidward", "Plankton", "Sandy", "Mrs. Puff"],
+        "correctAnswer": "Squidward",
+        "points": "200"
+      },
+      {
+        "question": "What psychological disorder does Squidward exhibit in his constant need for validation and attention?",
+        "options": ["Narcissistic Personality Disorder", "Obsessive-Compulsive Disorder", "Dependent Personality Disorder", "Histrionic Personality Disorder"],
+        "correctAnswer": "Histrionic Personality Disorder",
+        "points": "400"
+      },
+      {
+        "question": "Which character demonstrates symptoms of Generalized Anxiety Disorder due to their constant worrying and catastrophizing?",
+        "options": ["Mr. Krabs", "Plankton", "Mrs. Puff", "Pearl"],
+        "correctAnswer": "Mrs. Puff",
+        "points": "600"
+      },
+      {
+        "question": "Which character exhibits signs of Avoidant Personality Disorder due to their extreme shyness and fear of rejection?",
+        "options": ["Patrick", "Sandy", "Gary", "Pearl"],
+        "correctAnswer": "Patrick",
+        "points": "800"
+      },
+      {
+        "question": "What psychological concept is exemplified by SpongeBob's unwavering optimism and resilience despite constant failure?",
+        "options": ["Learned Helplessness", "Cognitive Dissonance", "Self-Efficacy", "Confirmation Bias"],
+        "correctAnswer": "Self-Efficacy",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Early 2000s Nickelodeon",
+    "questions": [
+      {
+        "question": "In the show 'The Adventures of Pete & Pete', what is the name of Little Pete's tattoo?",
+        "options": ["Petunia", "Pete", "Petey", "Polly"],
+        "correctAnswer": "Petunia",
+        "points": "200"
+      },
+      {
+        "question": "Which Nickelodeon game show featured messy physical challenges and a giant nose named 'Moira'?",
+        "options": ["Figure It Out", "Wild & Crazy Kids", "Double Dare 2000", "Slime Time Live"],
+        "correctAnswer": "Figure It Out",
+        "points": "400"
+      },
+      {
+        "question": "In the animated series 'As Told by Ginger', what is the name of Ginger's best friend?",
+        "options": ["Courtney", "Miranda", "Macy", "Darren"],
+        "correctAnswer": "Courtney",
+        "points": "600"
+      },
+      {
+        "question": "What is the name of the fictional town where 'The Wild Thornberrys' live?",
+        "options": ["El Dorado", "North Valley", "Waverly Hills", "Blandings"],
+        "correctAnswer": "El Dorado",
+        "points": "800"
+      },
+      {
+        "question": "Which early 2000s Nickelodeon show featured a boy named Ned who documented his daily life in a series of video diaries?",
+        "options": ["Ned's Declassified School Survival Guide", "The Amanda Show", "Drake & Josh", "Zoey 101"],
+        "correctAnswer": "Ned's Declassified School Survival Guide",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Warthogs with Guns 🐗",
+    "questions": [
+      {
+        "question": "What type of firearm would a warthog most likely use?",
+        "options": ["Sniper rifle", "Shotgun", "Pistol", "Assault rifle"],
+        "correctAnswer": "Shotgun",
+        "points": "200"
+      },
+      {
+        "question": "What would be the biggest challenge for a warthog using a gun?",
+        "options": ["Recoil", "Finding ammunition", "Opposable thumbs", "Aiming"],
+        "correctAnswer": "Opposable thumbs",
+        "points": "400"
+      },
+      {
+        "question": "Which warthog accessory would be the most popular?",
+        "options": ["Tactical vest", "Night vision goggles", "Bandolier", "Helmet"],
+        "correctAnswer": "Tactical vest",
+        "points": "600"
+      },
+      {
+        "question": "What would warthogs use as currency to buy guns and ammo?",
+        "options": ["Tusks", "Acorns", "Dung beetles", "Grubs"],
+        "correctAnswer": "Tusks",
+        "points": "800"
+      },
+      {
+        "question": "What would be the warthogs' strategy in a gunfight?",
+        "options": ["Charge headfirst", "Stay hidden", "Ambush", "Run away"],
+        "correctAnswer": "Charge headfirst",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "topic": "Japanese Supermarkets",
+    "questions": [
+      {
+        "question": "What is the largest Japanese supermarket chain in NYC?",
+        "options": ["Mitsuwa Marketplace", "H-Mart", "Sunrise Mart", "Nijiya Market"],
+        "correctAnswer": "Mitsuwa Marketplace",
+        "points": "200"
+      },
+      {
+        "question": "Which Japanese supermarket in NYC is known for its extensive selection of bento boxes and prepared foods?",
+        "options": ["Mitsuwa Marketplace", "Sunrise Mart", "H-Mart", "Katagiri"],
+        "correctAnswer": "Sunrise Mart",
+        "points": "400"
+      },
+      {
+        "question": "Which Japanese supermarket in NYC is located in the East Village and has been serving customers since 1975?",
+        "options": ["Mitsuwa Marketplace", "Sunrise Mart", "Katagiri", "Nijiya Market"],
+        "correctAnswer": "Katagiri",
+        "points": "600"
+      },
+      {
+        "question": "Which Japanese supermarket in NYC is famous for its fresh fish selection and sushi counter?",
+        "options": ["Mitsuwa Marketplace", "H-Mart", "Sunrise Mart", "Nijiya Market"],
+        "correctAnswer": "Nijiya Market",
+        "points": "800"
+      },
+      {
+        "question": "In which borough of NYC can you find a branch of the Japanese supermarket chain H-Mart?",
+        "options": ["Manhattan", "Brooklyn", "Queens", "The Bronx"],
+        "correctAnswer": "Queens",
+        "points": "1000"
+      }
+    ]
+  }
 ]
