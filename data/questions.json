@@ -1,0 +1,107 @@
+[
+{
+    "topic": "Skrillex",
+    "questions": [
+    {
+        "question": "What is Skrillex's real name?",
+        "options": ["Calvin Harris", "Sonny Moore", "Joel Zimmerman", "Thomas Wesley Pentz"],
+        "correctAnswer": "Sonny Moore",
+        "points": "$200"
+    },
+    {
+        "question": "Which Skrillex track won a Grammy Award for Best Dance Recording in 2012?",
+        "options": ["Bangarang", "Scary Monsters and Nice Sprites", "First of the Year (Equinox)", "Kyoto"],
+        "correctAnswer": "Scary Monsters and Nice Sprites",
+        "points": "$400"
+    },
+    {
+        "question": "Before his solo career as Skrillex, Sonny Moore was the lead vocalist for which band?",
+        "options": ["Fall Out Boy", "Panic! At The Disco", "From First to Last", "My Chemical Romance"],
+        "correctAnswer": "From First to Last",
+        "points": "$800"
+    },
+    {
+        "question": "Which song by Skrillex was featured in the video game 'Mortal Kombat X'?",
+        "options": ["Bangarang", "Scary Monsters and Nice Sprites", "Reptile", "Kyoto"],
+        "correctAnswer": "Reptile",
+        "points": "$1000"
+    },
+    {
+        "question": "In which year did Skrillex release his debut studio album 'Recess'?",
+        "options": ["2012", "2013", "2014", "2015"],
+        "correctAnswer": "2014",
+        "points": "$1200"
+    }
+    ]
+},
+{
+    "topic": "Cats",
+    "questions": [
+    {
+        "question": "What is the average gestation period for a domestic cat?",
+        "options": ["30-40 days", "50-60 days", "63-67 days", "70-80 days"],
+        "correctAnswer": "63-67 days",
+        "points": "$200"
+    },
+    {
+        "question": "Which breed of cat is known for its lack of a tail?",
+        "options": ["Siamese", "Manx", "Persian", "Sphynx"],
+        "correctAnswer": "Manx",
+        "points": "$400"
+    },
+    {
+        "question": "What is a group of kittens called?",
+        "options": ["A clowder", "A litter", "A kindle", "A pride"],
+        "correctAnswer": "A litter",
+        "points": "$800"
+    },
+    {
+        "question": "Which of the following is the largest breed of domestic cat?",
+        "options": ["Bengal", "Maine Coon", "Russian Blue", "Ragdoll"],
+        "correctAnswer": "Maine Coon",
+        "points": "$1000"
+    },
+    {
+        "question": "What does it mean when a cat’s tail is puffed up?",
+        "options": ["The cat is happy and content", "The cat is scared or agitated", "The cat is hungry", "The cat is sleepy"],
+        "correctAnswer": "The cat is scared or agitated",
+        "points": "$1200"
+    }
+    ]
+},
+{
+    "topic": "Caffeinated Curiosities",
+    "questions": [
+    {
+        "question": "Which of the following beverages typically contains the most caffeine per serving?",
+        "options": ["Black tea", "Cola", "Coffee", "Green tea"],
+        "correctAnswer": "Coffee",
+        "points": "$200"
+    },
+    {
+        "question": "What is the primary source of caffeine in energy drinks?",
+        "options": ["Guarana", "Yerba mate", "Green tea extract", "All of the above"],
+        "correctAnswer": "All of the above",
+        "points": "$400"
+    },
+    {
+        "question": "Which type of coffee has the highest caffeine content per ounce?",
+        "options": ["Espresso", "Drip coffee", "Cold brew", "Instant coffee"],
+        "correctAnswer": "Espresso",
+        "points": "$800"
+    },
+    {
+        "question": "What is the average caffeine content of an 8-ounce cup of brewed coffee?",
+        "options": ["50 mg", "95 mg", "150 mg", "200 mg"],
+        "correctAnswer": "95 mg",
+        "points": "$1000"
+    },
+    {
+        "question": "Which of these tea varieties generally has the lowest caffeine content?",
+        "options": ["Black tea", "Green tea", "White tea", "Oolong tea"],
+        "correctAnswer": "White tea",
+        "points": "$1200"
+    }
+    ]
+}
+]
