@@ -6,102 +6,408 @@
         "question": "What is Skrillex's real name?",
         "options": ["Calvin Harris", "Sonny Moore", "Joel Zimmerman", "Thomas Wesley Pentz"],
         "correctAnswer": "Sonny Moore",
-        "points": "$200"
+        "points": "200"
     },
     {
         "question": "Which Skrillex track won a Grammy Award for Best Dance Recording in 2012?",
         "options": ["Bangarang", "Scary Monsters and Nice Sprites", "First of the Year (Equinox)", "Kyoto"],
         "correctAnswer": "Scary Monsters and Nice Sprites",
-        "points": "$400"
+        "points": "400"
     },
     {
         "question": "Before his solo career as Skrillex, Sonny Moore was the lead vocalist for which band?",
         "options": ["Fall Out Boy", "Panic! At The Disco", "From First to Last", "My Chemical Romance"],
         "correctAnswer": "From First to Last",
-        "points": "$800"
+        "points": "800"
     },
     {
         "question": "Which song by Skrillex was featured in the video game 'Mortal Kombat X'?",
         "options": ["Bangarang", "Scary Monsters and Nice Sprites", "Reptile", "Kyoto"],
         "correctAnswer": "Reptile",
-        "points": "$1000"
+        "points": "1000"
     },
     {
         "question": "In which year did Skrillex release his debut studio album 'Recess'?",
         "options": ["2012", "2013", "2014", "2015"],
         "correctAnswer": "2014",
-        "points": "$1200"
+        "points": "1200"
     }
     ]
 },
 {
-    "topic": "Cats",
+    "topic": "Yuzu and Penelope: Jou's Cats",
     "questions": [
     {
         "question": "What is the average gestation period for a domestic cat?",
         "options": ["30-40 days", "50-60 days", "63-67 days", "70-80 days"],
         "correctAnswer": "63-67 days",
-        "points": "$200"
+        "points": "200"
     },
     {
         "question": "Which breed of cat is known for its lack of a tail?",
         "options": ["Siamese", "Manx", "Persian", "Sphynx"],
         "correctAnswer": "Manx",
-        "points": "$400"
+        "points": "400"
     },
     {
         "question": "What is a group of kittens called?",
         "options": ["A clowder", "A litter", "A kindle", "A pride"],
         "correctAnswer": "A litter",
-        "points": "$800"
+        "points": "800"
     },
     {
         "question": "Which of the following is the largest breed of domestic cat?",
         "options": ["Bengal", "Maine Coon", "Russian Blue", "Ragdoll"],
         "correctAnswer": "Maine Coon",
-        "points": "$1000"
+        "points": "1000"
     },
     {
         "question": "What does it mean when a cat’s tail is puffed up?",
         "options": ["The cat is happy and content", "The cat is scared or agitated", "The cat is hungry", "The cat is sleepy"],
         "correctAnswer": "The cat is scared or agitated",
-        "points": "$1200"
+        "points": "1200"
     }
     ]
 },
 {
-    "topic": "Caffeinated Curiosities",
+    "topic": "Venn's Caffeine",
     "questions": [
     {
         "question": "Which of the following beverages typically contains the most caffeine per serving?",
         "options": ["Black tea", "Cola", "Coffee", "Green tea"],
         "correctAnswer": "Coffee",
-        "points": "$200"
+        "points": "200"
     },
     {
         "question": "What is the primary source of caffeine in energy drinks?",
         "options": ["Guarana", "Yerba mate", "Green tea extract", "All of the above"],
         "correctAnswer": "All of the above",
-        "points": "$400"
+        "points": "400"
     },
     {
         "question": "Which type of coffee has the highest caffeine content per ounce?",
         "options": ["Espresso", "Drip coffee", "Cold brew", "Instant coffee"],
         "correctAnswer": "Espresso",
-        "points": "$800"
+        "points": "800"
     },
     {
         "question": "What is the average caffeine content of an 8-ounce cup of brewed coffee?",
         "options": ["50 mg", "95 mg", "150 mg", "200 mg"],
         "correctAnswer": "95 mg",
-        "points": "$1000"
+        "points": "1000"
     },
     {
         "question": "Which of these tea varieties generally has the lowest caffeine content?",
         "options": ["Black tea", "Green tea", "White tea", "Oolong tea"],
         "correctAnswer": "White tea",
-        "points": "$1200"
+        "points": "1200"
     }
     ]
+},
+{
+    "topic": "SpongeBob Trivia",
+    "questions": [
+    {
+        "question": "What is the name of SpongeBob's pet snail?",
+        "options": ["Gary", "Larry", "Barry", "Jerry"],
+        "correctAnswer": "Gary",
+        "points": "200"
+    },
+    {
+        "question": "Who lives in a pineapple under the sea?",
+        "options": ["Patrick Star", "Squidward Tentacles", "Sandy Cheeks", "SpongeBob SquarePants"],
+        "correctAnswer": "SpongeBob SquarePants",
+        "points": "400"
+    },
+    {
+        "question": "What is the name of Mr. Krabs' restaurant in Bikini Bottom?",
+        "options": ["Krusty Krab", "Chum Bucket", "Salty Spitoon", "Kelp Shake"],
+        "correctAnswer": "Krusty Krab",
+        "points": "800"
+    },
+    {
+        "question": "Which character is known for constantly yelling 'My leg!'?",
+        "options": ["Fred", "Barnacle Boy", "Mermaid Man", "Tom"],
+        "correctAnswer": "Fred",
+        "points": "1200"}]
+},
+{
+"topic": "Ruth's Spicy Food",
+"questions": [
+    {
+    "question": "What is the active component in chili peppers that makes them spicy?",
+    "options": ["Capsaicin", "Caffeine", "Curcumin", "Capsicum"],
+    "correctAnswer": "Capsaicin",
+    "points": "200"
+    },
+    {
+    "question": "Which pepper is known for being one of the hottest in the world?",
+    "options": ["Jalapeño", "Habanero", "Ghost Pepper", "Scotch Bonnet"],
+    "correctAnswer": "Ghost Pepper",
+    "points": "400"
+    },
+    {
+    "question": "What is the Scoville scale used to measure?",
+    "options": ["Spiciness of peppers", "Sweetness of fruits", "Bitterness of vegetables", "Acidity of foods"],
+    "correctAnswer": "Spiciness of peppers",
+    "points": "800"
+    },
+    {
+    "question": "Which country is famous for its spicy cuisine, including dishes like Tom Yum and Green Curry?",
+    "options": ["India", "Mexico", "Thailand", "China"],
+    "correctAnswer": "Thailand",
+    "points": "1000"
+    },
+    {
+    "question": "What is the popular spicy sauce made from chili peppers, vinegar, salt, and garlic?",
+    "options": ["Tabasco", "Sriracha", "Peri-Peri", "Harissa"],
+    "correctAnswer": "Sriracha",
+    "points": "1200"
+    }
+]
+},
+{
+"topic": "Sean's Fried Chicken",
+"questions": [
+    {
+    "question": "Which fast-food chain is famous for its Original Recipe chicken?",
+    "options": ["KFC", "Popeyes", "Chick-fil-A", "Church's Chicken"],
+    "correctAnswer": "KFC",
+    "points": "200"
+    },
+    {
+    "question": "What is the name of Popeyes' famous fried chicken sandwich?",
+    "options": ["Big Mac", "Whopper", "Original Chicken Sandwich", "Popeyes Chicken Sandwich"],
+    "correctAnswer": "Popeyes Chicken Sandwich",
+    "points": "400"
+    },
+    {
+    "question": "Which fried chicken chain originated in Atlanta, Georgia, and is known for its boneless chicken?",
+    "options": ["KFC", "Popeyes", "Chick-fil-A", "Zaxby's"],
+    "correctAnswer": "Chick-fil-A",
+    "points": "800"
+    },
+    {
+    "question": "What is the signature item of Jollibee that features crispy fried chicken served with gravy and rice?",
+    "options": ["Chickenjoy", "Zinger Burger", "Bucket Meal", "Spaghetti"],
+    "correctAnswer": "Chickenjoy",
+    "points": "1000"
+    },
+    {
+    "question": "Which international fried chicken chain is known for its 11 herbs and spices recipe?",
+    "options": ["KFC", "Popeyes", "Chick-fil-A", "Jollibee"],
+    "correctAnswer": "KFC",
+    "points": "1200"
+    }
+]
+},
+{
+"topic": "Peter's Rock Climbing",
+"questions": [
+    {
+    "question": "What is the name of the tool used in rock climbing to secure a climber to the rock face?",
+    "options": ["Carabiner", "Harness", "Chalk bag", "Belay device"],
+    "correctAnswer": "Carabiner",
+    "points": "200"
+    },
+    {
+    "question": "Which type of climbing involves climbing short distances without the use of ropes or harnesses?",
+    "options": ["Bouldering", "Top-roping", "Lead Climbing", "Free Soloing"],
+    "correctAnswer": "Bouldering",
+    "points": "400"
+    },
+    {
+    "question": "What is the term for a climbing route that has been attempted but not yet successfully climbed?",
+    "options": ["Project", "Beta", "Crux", "Send"],
+    "correctAnswer": "Project",
+    "points": "800"
+    },
+    {
+    "question": "Who is considered the father of modern rock climbing?",
+    "options": ["Alex Honnold", "Lynn Hill", "Reinhold Messner", "Yvon Chouinard"],
+    "correctAnswer": "Yvon Chouinard",
+    "points": "1000"
+    },
+    {
+    "question": "Which mountain range is famous for its granite walls and is a popular destination for rock climbers?",
+    "options": ["The Alps", "The Himalayas", "The Dolomites", "Yosemite Valley"],
+    "correctAnswer": "Yosemite Valley",
+    "points": "1200"
+    }
+]
+},
+{
+"topic": "Patrick's Movies",
+"questions": [
+    {
+    "question": "In the movie 'The Room,' what is the main character Johnny's catchphrase?",
+    "options": ["Here's Johnny!", "Oh, hi Mark!", "I'll be back!", "You can't handle the truth!"],
+    "correctAnswer": "Oh, hi Mark!",
+    "points": "200"
+    },
+    {
+    "question": "Which movie features a character named 'Donny,' who frequently says 'You're out of your element'?",
+    "options": ["The Big Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"],
+    "correctAnswer": "The Big Lebowski",
+    "points": "400"
+    },
+    {
+    "question": "In the film 'Spaceballs,' what is the name of the character played by John Candy?",
+    "options": ["Dark Helmet", "Barf", "Lone Starr", "Princess Vespa"],
+    "correctAnswer": "Barf",
+    "points": "800"
+    },
+    {
+    "question": "Which movie features a fictional band called The Wonders?",
+    "options": ["Almost Famous", "That Thing You Do!", "Empire Records", "High Fidelity"],
+    "correctAnswer": "That Thing You Do!",
+    "points": "1000"
+    },
+    {
+    "question": "What is the name of the robotic character in the 1986 film 'Short Circuit'?",
+    "options": ["WALL-E", "Bender", "Johnny 5", "R2-D2"],
+    "correctAnswer": "Johnny 5",
+    "points": "1200"
+    }
+]
+},
+{
+"topic": "Kevin's Basketball",
+"questions": [
+    {
+    "question": "Who was the shortest player ever to play in the NBA?",
+    "options": ["Spud Webb", "Muggsy Bogues", "Earl Boykins", "Nate Robinson"],
+    "correctAnswer": "Muggsy Bogues",
+    "points": "200"
+    },
+    {
+    "question": "Which NBA player once scored 100 points in a single game?",
+    "options": ["Michael Jordan", "LeBron James", "Kobe Bryant", "Wilt Chamberlain"],
+    "correctAnswer": "Wilt Chamberlain",
+    "points": "400"
+    },
+    {
+    "question": "Which team has won the most NBA championships?",
+    "options": ["Los Angeles Lakers", "Chicago Bulls", "Boston Celtics", "Golden State Warriors"],
+    "correctAnswer": "Boston Celtics",
+    "points": "800"
+    },
+    {
+    "question": "Who was the first foreign-born player to be drafted first overall in the NBA draft?",
+    "options": ["Yao Ming", "Dirk Nowitzki", "Pau Gasol", "Andrew Bogut"],
+    "correctAnswer": "Yao Ming",
+    "points": "1000"
+    },
+    {
+    "question": "Which player won the NBA's first-ever Slam Dunk Contest in 1984?",
+    "options": ["Michael Jordan", "Dominique Wilkins", "Spud Webb", "Larry Nance"],
+    "correctAnswer": "Larry Nance",
+    "points": "1200"
+    }
+]
+},
+{
+"topic": "Kelvin's Daily Milk Tea",
+"questions": [
+    {
+    "question": "What is the traditional name for milk tea in Taiwan?",
+    "options": ["Bubble tea", "Chai", "Hong Kong milk tea", "Matcha latte"],
+    "correctAnswer": "Bubble tea",
+    "points": "200"
+    },
+    {
+    "question": "Which ingredient gives Thai milk tea its distinctive orange color?",
+    "options": ["Condensed milk", "Evaporated milk", "Tea leaves", "Pandan leaves"],
+    "correctAnswer": "Tea leaves",
+    "points": "400"
+    },
+    {
+    "question": "Which type of tea is typically used to make classic British milk tea?",
+    "options": ["Green tea", "Black tea", "Oolong tea", "White tea"],
+    "correctAnswer": "Black tea",
+    "points": "800"
+    },
+    {
+    "question": "What is the name of the popular Japanese milk tea made with matcha powder?",
+    "options": ["Sencha", "Genmaicha", "Hojicha", "Matcha latte"],
+    "correctAnswer": "Matcha latte",
+    "points": "1000"
+    },
+    {
+    "question": "Which country is famous for its 'pearl milk tea'?",
+    "options": ["Japan", "China", "Thailand", "Taiwan"],
+    "correctAnswer": "Taiwan",
+    "points": "1200"
+    }
+]
+},
+{
+"topic": "Aima's Adventure Time",
+"questions": [
+    {
+    "question": "What is the name of the ancient being who created the Enchiridion in Adventure Time?",
+    "options": ["The Lich", "GOLB", "Prismo", "Grob Gob Glob Grod"],
+    "correctAnswer": "GOLB",
+    "points": "400"
+    },
+    {
+    "question": "What is the name of Marceline's former rock band in Adventure Time?",
+    "options": ["The Scream Queens", "The Vampire Band", "Marceline and the Ghouls", "Marceline and the Scream Queens"],
+    "correctAnswer": "Marceline and the Scream Queens",
+    "points": "600"
+    },
+    {
+    "question": "Who is the gender-swapped version of Finn in the gender-swapped universe of Adventure Time?",
+    "options": ["Fionna", "Fern", "Flynn", "Felix"],
+    "correctAnswer": "Fionna",
+    "points": "800"
+    },
+    {
+    "question": "What is the name of the entity that represents the concept of chaos in Adventure Time?",
+    "options": ["Gunter", "Cosmic Owl", "The Lich", "Magic Man"],
+    "correctAnswer": "The Lich",
+    "points": "1000"
+    },
+    {
+    "question": "What is the name of Jake's alien offspring who becomes a key figure in the series finale of Adventure Time?",
+    "options": ["Jermaine", "Viola", "Kim Kil Whan", "Bronwyn"],
+    "correctAnswer": "Bronwyn",
+    "points": "1200"
+    }
+]
+},
+{
+"topic": "Teddy's Electronic Music",
+"questions": [
+    {
+    "question": "Which EDM artist released the hit single 'Titanium' featuring Sia?",
+    "options": ["Calvin Harris", "David Guetta", "Avicii", "Martin Garrix"],
+    "correctAnswer": "David Guetta",
+    "points": "300"
+    },
+    {
+    "question": "Which of these festivals is NOT known for its EDM lineup?",
+    "options": ["Ultra Music Festival", "Electric Daisy Carnival", "Coachella", "Glastonbury Festival"],
+    "correctAnswer": "Glastonbury Festival",
+    "points": "500"
+    },
+    {
+    "question": "What is the real name of the DJ known as Zedd?",
+    "options": ["Anton Zaslavski", "Tim Bergling", "Sonny Moore", "Tijs Verwest"],
+    "correctAnswer": "Anton Zaslavski",
+    "points": "700"
+    },
+    {
+    "question": "Which EDM artist collaborated with Rihanna on the song 'We Found Love'?",
+    "options": ["Calvin Harris", "David Guetta", "Avicii", "Martin Garrix"],
+    "correctAnswer": "Calvin Harris",
+    "points": "900"
+    },
+    {
+    "question": "Which EDM artist's debut album is titled 'Clarity'?",
+    "options": ["Zedd", "Skrillex", "Calvin Harris", "Martin Garrix"],
+    "correctAnswer": "Zedd",
+    "points": "1100"
+    }]
 }
 ]
