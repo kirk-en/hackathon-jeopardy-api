@@ -22,6 +22,7 @@ const genQuestionSet = (questionsArr, categoryCount) => {
   }
   const outputQuestions = [];
   const usedSeeds = [];
+  console.log(questionsArr.length)
   for (let i = 0; i < categoryCount; i++) {
     let catSeed = Math.floor(Math.random() * questionsArr.length);
     while (usedSeeds.includes(catSeed)) {
