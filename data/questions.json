@@ -1030,5 +1030,279 @@
         "points": "1000"
       }
     ]
+  },
+  {
+    "uuid": "d4e8f7a3-b9c1-4d8e-a6fa-1c8e7d6e4f57",
+    "topic": "The Golden Years of Cincinnati",
+    "questions": [
+      {
+        "question": "What year is often considered the beginning of Cincinnati's 'Golden Years' due to the rapid growth and development in the city?",
+        "options": ["1810", "1830", "1850", "1870"],
+        "correctAnswer": "1830",
+        "points": "200"
+      },
+      {
+        "question": "Which industry was Cincinnati a major center for during its 'Golden Years,' earning it the nickname 'Porkopolis'?",
+        "options": ["Steel", "Textiles", "Meatpacking", "Furniture"],
+        "correctAnswer": "Meatpacking",
+        "points": "400"
+      },
+      {
+        "question": "What significant architectural structure, completed in 1878, became a symbol of Cincinnati's prosperity and cultural growth?",
+        "options": ["Music Hall", "Union Terminal", "Roebling Suspension Bridge", "Cincinnati Art Museum"],
+        "correctAnswer": "Music Hall",
+        "points": "600"
+      },
+      {
+        "question": "Which famous Cincinnati brewery, founded in 1836, became one of the largest in the nation during the city's 'Golden Years'?",
+        "options": ["Christian Moerlein Brewing Co.", "Hudepohl Brewing Company", "Schoenling Brewing Company", "Weidemann Brewing Company"],
+        "correctAnswer": "Christian Moerlein Brewing Co.",
+        "points": "800"
+      },
+      {
+        "question": "What influential book, published by Cincinnati resident Harriet Beecher Stowe in 1852, had a significant impact on the anti-slavery movement?",
+        "options": ["Uncle Tom's Cabin", "The Adventures of Huckleberry Finn", "Moby-Dick", "Little Women"],
+        "correctAnswer": "Uncle Tom's Cabin",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "uuid": "6f8e4f3a-8b2e-4d1a-a8a1-7a6e9d6f4e88",
+    "topic": "The History of Chat GPT",
+    "questions": [
+      {
+        "question": "What does 'GPT' stand for in Chat GPT?",
+        "options": ["Generalized Parsing Technology", "Generative Pre-trained Transformer", "Global Processing Terminal", "Graphical Processing Technique"],
+        "correctAnswer": "Generative Pre-trained Transformer",
+        "points": "200"
+      },
+      {
+        "question": "Which company developed Chat GPT?",
+        "options": ["Google", "Microsoft", "OpenAI", "IBM"],
+        "correctAnswer": "OpenAI",
+        "points": "400"
+      },
+      {
+        "question": "In which year was the first version of GPT released?",
+        "options": ["2015", "2017", "2018", "2019"],
+        "correctAnswer": "2018",
+        "points": "600"
+      },
+      {
+        "question": "What was a significant improvement introduced in GPT-3 compared to its predecessors?",
+        "options": ["Smaller model size", "Lower computational cost", "Higher accuracy and larger model size", "More training data from user inputs"],
+        "correctAnswer": "Higher accuracy and larger model size",
+        "points": "800"
+      },
+      {
+        "question": "Which GPT model was the first to significantly popularize conversational AI due to its ability to generate coherent and contextually relevant responses?",
+        "options": ["GPT", "GPT-2", "GPT-3", "GPT-4"],
+        "correctAnswer": "GPT-3",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "uuid": "8e0e8b0a-0e4d-4c5f-98c7-2f5b8d8f6c89",
+    "topic": "Do You Really Know Bananas? 🍌",
+    "questions": [
+      {
+        "question": "What is the scientific name of the most commonly consumed banana variety?",
+        "options": ["Musa acuminata", "Musa balbisiana", "Musa sapientum", "Musa cavendishii"],
+        "correctAnswer": "Musa acuminata",
+        "points": "200"
+      },
+      {
+        "question": "Which country is the largest producer of bananas in the world?",
+        "options": ["Ecuador", "India", "Brazil", "Philippines"],
+        "correctAnswer": "India",
+        "points": "400"
+      },
+      {
+        "question": "What is the name of the fungal disease that has been threatening banana crops, particularly the Cavendish variety?",
+        "options": ["Black Sigatoka", "Panama Disease", "Banana Bunchy Top Virus", "Fusarium Wilt"],
+        "correctAnswer": "Panama Disease",
+        "points": "600"
+      },
+      {
+        "question": "In which year did the Gros Michel banana variety, previously the dominant variety, become commercially unviable due to Panama Disease?",
+        "options": ["1950", "1960", "1970", "1980"],
+        "correctAnswer": "1960",
+        "points": "800"
+      },
+      {
+        "question": "Which compound found in bananas is known to release ethylene gas, accelerating the ripening process?",
+        "options": ["Pectin", "Serotonin", "Dopamine", "Isoamyl acetate"],
+        "correctAnswer": "Isoamyl acetate",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "uuid": "9b47d4b2-d83e-4d69-9f2b-4d5b8f8c8f89",
+    "topic": "The World of Cryptocurrency 🪙",
+    "questions": [
+      {
+        "question": "Which cryptocurrency founder disappeared in 2014 with over $350 million worth of Bitcoin, leaving the exchange's users empty-handed?",
+        "options": ["Mark Karpeles", "Gerald Cotten", "Alexander Vinnik", "Ross Ulbricht"],
+        "correctAnswer": "Mark Karpeles",
+        "points": "200"
+      },
+      {
+        "question": "In what year did the infamous BitConnect Ponzi scheme collapse, leading to investors losing billions of dollars?",
+        "options": ["2016", "2017", "2018", "2019"],
+        "correctAnswer": "2018",
+        "points": "400"
+      },
+      {
+        "question": "Which cryptocurrency project, promoted by celebrities like Floyd Mayweather and DJ Khaled, was shut down by the SEC for being a fraudulent ICO?",
+        "options": ["OneCoin", "BitConnect", "Centra Tech", "AriseBank"],
+        "correctAnswer": "Centra Tech",
+        "points": "600"
+      },
+      {
+        "question": "Who was the founder of the notorious OneCoin Ponzi scheme, often referred to as 'The Cryptoqueen'?",
+        "options": ["Ruja Ignatova", "Jihan Wu", "Charlie Lee", "Roger Ver"],
+        "correctAnswer": "Ruja Ignatova",
+        "points": "800"
+      },
+      {
+        "question": "Which cryptocurrency exchange CEO died in 2018 under mysterious circumstances, allegedly taking the private keys to over $190 million in customer funds to his grave?",
+        "options": ["Mark Karpeles", "Gerald Cotten", "Arthur Hayes", "Sam Bankman-Fried"],
+        "correctAnswer": "Gerald Cotten",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "uuid": "5d77a123-b2d4-4e38-97d1-4f5b890e6739",
+    "topic": "Famous Lizard Movies 🦎",
+    "questions": [
+      {
+        "question": "In the 1998 movie 'Godzilla', which city's iconic skyline is featured prominently in the destruction scenes?",
+        "options": ["New York City", "Los Angeles", "Tokyo", "San Francisco"],
+        "correctAnswer": "New York City",
+        "points": "200"
+      },
+      {
+        "question": "Which actor voiced the titular character in the animated film 'Rango'?",
+        "options": ["Johnny Depp", "Brad Pitt", "Leonardo DiCaprio", "Will Smith"],
+        "correctAnswer": "Johnny Depp",
+        "points": "400"
+      },
+      {
+        "question": "In 'The Amazing Spider-Man' (2012), what is the name of the scientist who transforms into The Lizard?",
+        "options": ["Dr. Otto Octavius", "Dr. Curt Connors", "Dr. Norman Osborn", "Dr. Henry Pym"],
+        "correctAnswer": "Dr. Curt Connors",
+        "points": "600"
+      },
+      {
+        "question": "The 1984 movie 'The Last Starfighter' features a lizard-like alien named Grig. Which actor played this role?",
+        "options": ["Robert Preston", "Dan O'Herlihy", "Lance Guest", "Wil Wheaton"],
+        "correctAnswer": "Dan O'Herlihy",
+        "points": "800"
+      },
+      {
+        "question": "In the film 'Reptilicus' (1961), what is the origin of the titular monster?",
+        "options": [
+          "A nuclear explosion",
+          "A prehistoric tail fragment",
+          "Genetic experimentation",
+          "Alien invasion"
+        ],
+        "correctAnswer": "A prehistoric tail fragment",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "uuid": "a7b9d589-8c21-4d60-85a6-72d50f3e1bc1",
+    "topic": "Food in NYC 🍛",
+    "questions": [
+      {
+        "question": "In the NYC food rating system, what grade represents the highest level of food safety?",
+        "options": ["A", "B", "C", "D"],
+        "correctAnswer": "A",
+        "points": "200"
+      },
+      {
+        "question": "What type of violation can result in an immediate closure of a restaurant by the NYC Health Department?",
+        "options": ["Rodent infestation", "Minor labeling errors", "Missing menus", "Improper table settings"],
+        "correctAnswer": "Rodent infestation",
+        "points": "400"
+      },
+      {
+        "question": "What critical violation involves having food stored at unsafe temperatures?",
+        "options": [
+          "Temperature control",
+          "Cross-contamination",
+          "Improper hand washing",
+          "Poor ventilation"
+        ],
+        "correctAnswer": "Temperature control",
+        "points": "600"
+      },
+      {
+        "question": "Which of the following is NOT a factor in NYC's food safety scoring system?",
+        "options": [
+          "Food handling practices",
+          "Employee hygiene",
+          "Restaurant ambiance",
+          "Pest control"
+        ],
+        "correctAnswer": "Restaurant ambiance",
+        "points": "800"
+      },
+      {
+        "question": "What gross violation, involving human actions, can significantly reduce a restaurant's grade?",
+        "options": [
+          "Employees smoking in food preparation areas",
+          "Dirty uniforms",
+          "Use of plastic utensils",
+          "Low lighting in dining area"
+        ],
+        "correctAnswer": "Employees smoking in food preparation areas",
+        "points": "1000"
+      }
+    ]
+  },
+  {
+    "uuid": "dc2f3b3a-9946-4d33-8e37-72d3915a8bf1",
+    "topic": "History of the Apple iPad 📱",
+    "questions": [
+      {
+        "question": "In 2010, which high-profile politician's iPad was hacked, leading to a significant security breach?",
+        "options": ["Barack Obama", "Hillary Clinton", "Sarah Palin", "Mitt Romney"],
+        "correctAnswer": "Sarah Palin",
+        "points": "200"
+      },
+      {
+        "question": "In 2012, a man used an iPad to steal over $200,000 from which type of business, by exploiting a flaw in their payment system?",
+        "options": ["Coffee shops", "Gas stations", "Supermarkets", "ATM machines"],
+        "correctAnswer": "Gas stations",
+        "points": "400"
+      },
+      {
+        "question": "In 2015, which major city's police department reported a spike in violent crimes involving the theft of iPads and other electronic devices on public transportation?",
+        "options": ["New York City", "Los Angeles", "Chicago", "San Francisco"],
+        "correctAnswer": "San Francisco",
+        "points": "600"
+      },
+      {
+        "question": "In a notorious 2014 case, an iPad was used to control and operate illegal surveillance on which prominent celebrity's home?",
+        "options": ["Jennifer Lawrence", "Beyoncé", "Kim Kardashian", "Tom Cruise"],
+        "correctAnswer": "Jennifer Lawrence",
+        "points": "800"
+      },
+      {
+        "question": "In 2018, a scam involving the sale of fake iPads led to the arrest of a group operating in which international airport?",
+        "options": ["Heathrow Airport", "JFK Airport", "LAX Airport", "Changi Airport"],
+        "correctAnswer": "JFK Airport",
+        "points": "1000"
+      }
+    ]
   }
+  
+  
 ]
